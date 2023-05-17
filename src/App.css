@@ -1,0 +1,21 @@
+.App {
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  background-color: #0a0a23;
+  color: #fff;
+  border-radius: 5px;
+}
+
+input {
+  padding: 10px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  font-family: inherit;
+  font-size: inherit;
+}
